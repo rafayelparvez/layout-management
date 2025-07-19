@@ -1,0 +1,16 @@
+body{
+	margin: 0;
+}
+.images{
+		padding: 50px 0;
+}
+
+.img_item{
+	box-sizing: border-box;
+	float: left;
+	width: 25%;
+	padding: 5px;
+}
+.img_item img{
+	width: 100%;
+}
